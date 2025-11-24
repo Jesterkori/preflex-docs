@@ -1,2 +1,29 @@
-company name = jnl
-Preflex Solutions is an AI-driven company that helps businesses automate operations. Founded in 2020, we specialize in intelligent software for process optimization. Our mission is to make enterprise technology simple, smart, and scalable. hi
+Preflex Solutions - Company Profile
+
+About Us:
+Preflex Solutions is an AI-driven company that helps businesses automate operations. Founded in 2020, we specialize in intelligent software for process optimization. Our mission is to make enterprise technology simple, smart, and scalable.
+
+Services:
+- AI automation solutions
+- Process optimization software
+- Business intelligence tools
+- Custom enterprise applications
+- Workflow automation
+- Data analytics platforms
+
+Mission:
+Our mission is to make enterprise technology simple, smart, and scalable for businesses of all sizes.
+
+Contact Information:
+Email: contact@preflex.com
+Phone: +1-XXX-XXX-XXXX
+Location: [Your City, Country]
+
+Team:
+We have a dedicated team of AI specialists, software engineers, and business consultants working to deliver cutting-edge solutions.
+
+Why Choose Preflex:
+- 5+ years of experience in AI automation
+- Proven track record with enterprise clients
+- Scalable solutions for growing businesses
+- 24/7 customer support
